@@ -3,3 +3,5 @@ uvicorn
 openai
 pinecone-client
 python-multipart
+ffmpeg-python
+whisper
